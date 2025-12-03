@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Bamboo Gesture",
+  "description": "Interactive cyberpunk bamboo forest simulation controlled by hand gestures. Features neon aesthetics and physics-based leaf particles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
